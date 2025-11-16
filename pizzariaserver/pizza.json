@@ -1,0 +1,62 @@
+﻿[
+  {
+    "id": "0001",
+    "type": "veg",
+    "price": 290,
+    "name": "Paneer Tikka",
+    "image": "https://i.pinimg.com/736x/ed/f0/3b/edf03b5341e3ddebcf5af65924252e22.jpg",
+    "description": "Popular Italian pizza flavoured with marinated tikka sauce and paneer",
+    "ingredients": ["dough/flour", "pizza sauce", "pizza sauce seasoning", "cheese"],
+    "topping": ["Paneer", "Fried Onion", "Green olive", "Capsicum", "Red paprika"]
+  },
+  {
+    "id": "0002",
+    "type": "nonveg",
+    "price": 350,
+    "name": "Chicken Italiano",
+    "image": "https://i.pinimg.com/1200x/af/48/5c/af485c6e45f27311bfca7035fa5eb4e6.jpg",
+    "description": "Italian pizza with a light sugary taste and creamy touch",
+    "ingredients": ["deep dish pizza mix", "pizza sauce", "pizza sauce seasoning", "cheese", "sugar and cinnamon blend", "plain butter"],
+    "topping": ["Pepperoni", "Chicken Sausage", "Mushroom", "Capsicum", "Black beans"]
+  },
+  {
+    "id": "0003",
+    "type": "veg",
+    "price": 310,
+    "name": "Veggie Supreme",
+    "image": "https://i.pinimg.com/736x/53/1e/14/531e1457d5e7ddaf1ba78750b7c57926.jpg",
+    "description": "Italian pizza with crushed garlic and herbs, topped with sweet corn",
+    "ingredients": ["deep dish pizza mix", "pizza sauce", "pizza sauce seasoning", "cheese", "garlic herbs", "flavored butter"],
+    "topping": ["Fried Onion", "Sweet corn", "Mushroom", "Capsicum", "Black olive"]
+  },
+  {
+    "id": "0004",
+    "type": "nonveg",
+    "price": 400,
+    "name": "Triple Chicken Feast",
+    "image": "https://i.pinimg.com/736x/92/ef/68/92ef68127fae4ce0c75890f700339f80.jpg",
+    "description": "Italian pizza with Greek dressing, topped with keema and meatballs",
+    "ingredients": ["low carb pizza dough", "pizza sauce", "pizza sauce seasoning", "cheese", "greek dressing", "cajun"],
+    "topping": ["Chicken keema", "Fried Onion", "Chicken Meatball", "Capsicum", "Sweet corn"]
+  },
+  {
+    "id": "0005",
+    "type": "nonveg",
+    "price": 625,
+    "name": "Ultimate Chicken",
+    "image": "https://i.pinimg.com/736x/39/74/71/397471e3394ffbdf59435266cf40ebf7.jpg",
+    "description": "Italian pizza with BBQ sauce and flavored butter. Spongy base with multiple toppings",
+    "ingredients": ["deep dish pizza mix", "pizza sauce", "pizza sauce seasoning", "cheese", "BBQ sauce", "cajun", "flavored butter"],
+    "topping": ["Pepperoni", "Fried Onion", "Chicken Meatball", "Chicken Sausage", "Chicken keema"]
+  },
+  {
+    "id": "0006",
+    "type": "nonveg",
+    "price": 400,
+    "name": "Triple Chicken Feast Special",
+    "image": "https://i.pinimg.com/736x/b6/18/0f/b6180f9ddc5435d6b85787b0dbbf5dcf.jpg",
+    "description": "Italian pizza with Greek dressing topped with keema and meatballs",
+    "ingredients": ["low carb pizza dough", "pizza sauce", "pizza sauce seasoning", "cheese", "greek dressing", "cajun"],
+    "topping": ["Chicken keema", "Fried Onion", "Chicken Meatball", "Capsicum", "Sweet corn"]
+  }
+]
