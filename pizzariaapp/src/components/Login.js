@@ -16,7 +16,7 @@ function Login() {
     e.preventDefault();
     setError('');
     
-    // Validation
+    
     if (!email || !password) {
       setError('Please fill in all fields');
       return;

@@ -16,8 +16,8 @@ import logo from './Logo.png';
 
 function AppContent() {
   const [cartCount, setCartCount] = useState(0);
-  const [menuOpen, setMenuOpen] = useState(false);            // Mobile navbar toggle
-  const [dropdownOpen, setDropdownOpen] = useState(false);    // User menu dropdown
+  const [menuOpen, setMenuOpen] = useState(false);            
+  const [dropdownOpen, setDropdownOpen] = useState(false);    
   const { user, logout, isAuthenticated } = useAuth();
   
 
